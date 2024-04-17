@@ -14,4 +14,4 @@ Please follow the following instructions:
 
 6. Push your git repository to your GitHub account. You may freely decide about the repository name, description, README, etc.
 
-7. Upload the link of the GitHub repository in the Google Forms.
+7. Upload the link of the GitHub repository in the Google FormS.
