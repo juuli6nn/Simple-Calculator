@@ -15,3 +15,10 @@ print("+ = Add")
 print("- = Subtract")          
 print("* = Multiply")
 print("/ = Divide")
+
+while True:
+    choice = input("Enter choice (+ | - | * | /): ")
+
+    if choice in ('+', '-', '*', '/'):
+        num1 = float(input("Enter first number: "))
+        num2 = float(input("Enter second number: "))
