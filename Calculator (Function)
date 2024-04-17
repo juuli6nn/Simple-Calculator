@@ -9,3 +9,9 @@ def divide(x, y):
         return "Error: Division by zero!"
     else:
         return x / y
+
+print("Select operation:")
+print("+ = Add")
+print("- = Subtract")          
+print("* = Multiply")
+print("/ = Divide")
